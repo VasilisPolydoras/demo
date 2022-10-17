@@ -3,3 +3,5 @@ bye git
 
 pull changes
 pull changes2
+
+conflict
